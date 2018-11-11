@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541820533 source:c:\users\neel rami\desktop\cc\tokenization\main.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+
