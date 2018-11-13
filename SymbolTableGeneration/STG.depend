@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1542080583 source:c:\users\neel rami\desktop\cc\stg\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<algorithm>
+	<stdlib.h>
+	<stdexcept>
+

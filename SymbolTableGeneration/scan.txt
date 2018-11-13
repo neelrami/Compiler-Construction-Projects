@@ -1,0 +1,13 @@
+int a=10,b=5;
+string c;
+int try(){
+	if(a!=b){
+		a=b;
+		return a;
+	}
+	return 0;
+}
+int main(){
+//comment ignored
+try();//comment ignored again
+}
